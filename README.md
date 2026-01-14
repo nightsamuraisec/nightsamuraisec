@@ -7,7 +7,13 @@
 <h3 align="center">Cybersecurity & Software Developer | Türkiye'den Araştırma Odaklı Geliştirici</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aa&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nightsamuraisec&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="mailto:MAIL_ADRESINI_BURAYA_YAZ" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
 </p>
 
 ---
@@ -90,6 +96,20 @@ My work is driven by strategic thinking, continuous learning, and well-documente
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </a>
+
+---
+
+## 🏆 Cyber Security & CTF Stats
+
+<div align="center">
+  <a href="https://tryhackme.com/p/nightsamuraisec">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nightsamuraisec.png" alt="TryHackMe Badge" />
+  </a>
+  
+  <h3>
+    🌍 Global Rank: <strong>#1408</strong> | 🇹🇷 Turkey Rank: <strong>#34</strong> | 🔝 <strong>Top %1</strong>
+  </h3>
+</div>
 
 ---
 
